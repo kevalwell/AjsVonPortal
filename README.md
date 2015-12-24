@@ -1,3 +1,5 @@
-#SkunkWorks Vonage Widget Mockup
+#SkunkWorks
 
-This project is an AngularJS web app portal(ProtoType) which will allow the user to access various Vonage Widgets.
+##Vonage Widget Mockup
+
+###This project is an AngularJS web app portal(ProtoType) which will allow the user to access various Vonage Widgets.
